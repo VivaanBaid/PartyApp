@@ -11,6 +11,8 @@
 		7273FAF328AA1EAA00E806E8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7273FAF228AA1EAA00E806E8 /* ContentView.swift */; };
 		7273FAF528AA1EAC00E806E8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7273FAF428AA1EAC00E806E8 /* Assets.xcassets */; };
 		7273FAF828AA1EAC00E806E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7273FAF728AA1EAC00E806E8 /* Preview Assets.xcassets */; };
+		72894ED328AB64CB004C36A4 /* PartyFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72894ED228AB64CB004C36A4 /* PartyFinder.swift */; };
+		72894ED528AB6915004C36A4 /* searchbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72894ED428AB6915004C36A4 /* searchbar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		7273FAF228AA1EAA00E806E8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7273FAF428AA1EAC00E806E8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7273FAF728AA1EAC00E806E8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		72894ED228AB64CB004C36A4 /* PartyFinder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyFinder.swift; sourceTree = "<group>"; };
+		72894ED428AB6915004C36A4 /* searchbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = searchbar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				7273FAF228AA1EAA00E806E8 /* ContentView.swift */,
 				7273FAF428AA1EAC00E806E8 /* Assets.xcassets */,
 				7273FAF628AA1EAC00E806E8 /* Preview Content */,
+				72894ED228AB64CB004C36A4 /* PartyFinder.swift */,
+				72894ED428AB6915004C36A4 /* searchbar.swift */,
 			);
 			path = PartyApp;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72894ED328AB64CB004C36A4 /* PartyFinder.swift in Sources */,
+				72894ED528AB6915004C36A4 /* searchbar.swift in Sources */,
 				7273FAF328AA1EAA00E806E8 /* ContentView.swift in Sources */,
 				7273FAF128AA1EAA00E806E8 /* PartyAppApp.swift in Sources */,
 			);
